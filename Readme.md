@@ -60,7 +60,7 @@ TMRL-Project/
 
 
 
-git clone https://github.com/username/TMRL-Project.git
+git clone https://github.com/jmusadiq7/TMRL-Project..git
 
 cd TMRL-Project
 
@@ -327,4 +327,5 @@ while not done:
 
 
                ----------------------------------------------------------------------------------
+
 
